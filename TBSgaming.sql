@@ -1,0 +1,1 @@
+cache_locksSELECT * FROM tbsgaming.users;
